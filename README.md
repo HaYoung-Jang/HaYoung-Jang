@@ -21,4 +21,4 @@ BOJ
 
 velog
 <br>
-<a href="https://velog.io/@wkd7198">https://velog.io/@wkd7198</a>
+<a href="https://velog.io/@wkd7198"><img src ="https://velog-readme-stats.vercel.app/api?name=wkd7198"/></a>
