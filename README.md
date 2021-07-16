@@ -20,4 +20,4 @@ BOJ
 
 velog
 <br>
-<a href="https://velog.io/@wkd7198">velog : https://velog.io/@wkd7198</a>
+<a href="https://velog.io/@wkd7198">https://velog.io/@wkd7198</a>
