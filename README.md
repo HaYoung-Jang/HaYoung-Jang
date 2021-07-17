@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 ### velog
 <a href="https://velog.io/@wkd7198"><img src ="https://velog-readme-stats.vercel.app/api?name=wkd7198"/></a>
+
+### stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYoung-Jang)](https://github.com/anuraghazra/github-readme-stats)
