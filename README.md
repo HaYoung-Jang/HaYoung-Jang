@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 ### stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYoung-Jang)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaYoung-Jang)](https://github.com/anuraghazra/github-readme-stats)
